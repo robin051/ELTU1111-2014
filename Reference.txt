@@ -1,0 +1,13 @@
+%% Solar Irradiance Data
+
+Hong Kong Observatory
+One-day data only
+http://www.weather.gov.hk/wxinfo/ts/display_element_solar_e.htm
+
+%% Printed Organic Solar Cell
+
+Victorian Organic Solar Cell Consortium (VICOSC)
+http://energy.unimelb.edu.au/victorian-organic-solar-cell-consortium-vicosc
+
+Aussie scientists print flexible solar panels
+http://www.smh.com.au/technology/sci-tech/aussie-scientists-print-flexible-solar-panels-20130516-2joaj.html
